@@ -17,6 +17,7 @@ WhoIs는 아주대학교 사이버보안학과 정보보안소학회입니다.
 ### WhoIs C Programming 교육이란?
 
 "WhoIs C Programming" 교육은 WhoIs 신입 회원들을 대상으로 하는 C 프로그래밍 교육입니다.
+C언어와 기본적인 자료구조 및 알고리즘을 다룹니다.
 
 ### 강의
 
@@ -36,6 +37,10 @@ WhoIs는 아주대학교 사이버보안학과 정보보안소학회입니다.
 * [GitHub](https://github.com/chr0m3)
 * [Blog](https://blog.chr0m3.me)
 
+##### 민서현
+
+* 아주대학교 사이버보안학과
+
 #### TA
 
 ##### 강형국
@@ -43,10 +48,6 @@ WhoIs는 아주대학교 사이버보안학과 정보보안소학회입니다.
 * 아주대학교 사이버보안학과
 
 ##### 김형찬
-
-* 아주대학교 사이버보안학과
-
-##### 민서현
 
 * 아주대학교 사이버보안학과
 
@@ -67,4 +68,4 @@ WhoIs는 아주대학교 사이버보안학과 정보보안소학회입니다.
 이 자료는 오로지 개인적인 학습용으로만 사용되어져야 합니다.
 원 저작자의 동의 없이 사용되거나 재배포할 수 없습니다.
 
-Copyright (C) JunGu Kang. All Rights Reserved.
+Copyright (C) JunGu Kang, SeoHyeon Min. All Rights Reserved.
