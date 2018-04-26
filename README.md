@@ -2,10 +2,9 @@
 
 2018 WhoIs C Programming 강의노트 및 과제
 
-## WhoIs 란?
+## WhoIs란?
 
-WhoIs는 아주대학교 사이버보안학과 정보보안소학회입니다.
-[WhoIs 블로그](https://ajou-whois.github.io)를 참조하시기 바랍니다.
+WhoIs는 아주대학교 사이버보안학과 정보보안소학회입니다. 자세한 정보는 [WhoIs 블로그](https://ajou-whois.github.io)를 참조하시기 바랍니다.
 
 > WhoIs는 사이버보안학과 소속 정보보안 학술 소학회입니다.
 내부적으로는 정보보호 전반에 대한 취약점 분석 및 대응방안을 목표로 암호학, 개별세미나, 시스템, 웹, 포렌식 등을 공부하고 있습니다.
@@ -16,16 +15,17 @@ WhoIs는 아주대학교 사이버보안학과 정보보안소학회입니다.
 
 ### WhoIs C Programming 교육이란?
 
-"WhoIs C Programming" 교육은 WhoIs 신입 회원들을 대상으로 하는 C 프로그래밍 교육입니다.
-C언어와 기본적인 자료구조 및 알고리즘을 다룹니다.
+"WhoIs C Programming" 교육은 WhoIs 신입 회원들을 대상으로 하는 C 프로그래밍 교육입니다. C언어와 기초적인 자료구조 및 알고리즘을 다룹니다.
 
 ### 강의
 
-* TBD
+#### 장소
 
-### 과제
+아주대학교 팔달관 111호(CSMC) 예정
 
-* TBD
+#### 일정
+
+![Lecture Schedule](https://github.com/ajou-whois/2018-c-programming-lecture/blob/master/etc/lecture_schedule.png)
 
 ### 스태프
 
