@@ -66,6 +66,7 @@ WhoIs는 아주대학교 사이버보안학과 정보보안소학회입니다. �
 ### 교육 지원
 
 2018 WhoIs C Programming 교육은 Naver D2의 지원으로 진행되었습니다.
+
 <img src="https://github.com/ajou-whois/2018-c-programming-lecture/blob/master/etc/naver_d2_logo.png" alt="Naver D2 Logo" width="250px">
 
 ### 저작권
