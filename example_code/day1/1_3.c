@@ -5,9 +5,9 @@ int main(void) {
     short b;  // short int b;
     int c;
     long d;  // long int b;
-    float f;
-    double g;
-    long double h;
+    float e;
+    double f;
+    long double g;
 
     return 0;
 }
