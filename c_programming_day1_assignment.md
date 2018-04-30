@@ -37,7 +37,7 @@ int main(void) {
 #include <stdio.h>
 
 int main(void) {
-	char a;    
+	char a;
     scanf("%d", &a);
     printf("입력값 : %d\n", a);
     return 0;
