@@ -12,8 +12,8 @@ int main(void) {
 }
 
 void swap(int * a_ptr, int * b_ptr) {
-    void * temp_ptr = a_ptr;
-    a_ptr = b_ptr;
-    b_ptr = temp_ptr;
+    int temp = *a_ptr;
+    *a_ptr = *b_ptr;
+    *b_ptr = temp;
     printf("a: %d, b: %d\n", *a_ptr, *b_ptr);
 }
