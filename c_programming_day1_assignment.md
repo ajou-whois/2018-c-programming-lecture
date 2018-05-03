@@ -78,7 +78,7 @@ int main(void) {
 int main(void) {
 	int a;
     scanf("%d", &a);
-    
+
     if(a == 1) printf("input: one\n");
     if(a == 2) printf("input: two\n");
     if(a == 3) printf("input: three\n");
@@ -89,7 +89,7 @@ int main(void) {
     if(a == 8) printf("input: eight\n");
     if(a == 9) printf("input: nine\n");
     if(a == 0) printf("input: zero\n");
-    
+
     return 0;
 }
 ```
