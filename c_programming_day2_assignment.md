@@ -30,7 +30,7 @@ Automatic Variable, Global Variable, Extern Variable, Static Variable, Register 
 
 #### 문제
 
-Call by Reference와 Call by Value에 대해 설명하시오.
+Call by Value와 Call by Reference에 대해 설명하시오.
 
 ### Q5
 
