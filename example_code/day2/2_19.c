@@ -4,11 +4,11 @@ int main(void) {
     char string[14] = "Hello, World!";
     int numbers[5] = {25, 63, 75, 15, 37};
 
-    printf("string size: %ld\n", sizeof string);
-    printf("string length: %ld\n", sizeof string / sizeof (char));
+    printf("string size: %u\n", sizeof string);
+    printf("string length: %u\n", sizeof string / sizeof (char));
 
-    printf("numbers size: %ld\n", sizeof numbers);
-    printf("numbers length: %ld\n", sizeof numbers / sizeof (int));
+    printf("numbers size: %u\n", sizeof numbers);
+    printf("numbers length: %u\n", sizeof numbers / sizeof (int));
 
     return 0;
 }
