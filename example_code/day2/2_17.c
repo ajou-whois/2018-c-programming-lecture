@@ -12,8 +12,8 @@ int main(void) {
     printf("%c\n", string[4]);  // o
     printf("%c\n", string[7]);  // W
 
-    printf("%d\n", numbers[0]);  // 25
-    printf("%d\n", numbers[3]);  // 15
+    printf("%d\n", numbers[0]);  // 15
+    printf("%d\n", numbers[3]);  // 85
 
     return 0;
 }
